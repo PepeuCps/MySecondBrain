@@ -16,7 +16,6 @@
 |-------|-------------|
 | **CCOE** | Cloud Center of Excellence |
 | **FinOps** | Resposavel pelo controle de custo de núvem |
-| **RDS foundation** | Clusters PostgreSQL na AWS (devhml2, financial-qa, financial-hotfix) monitorados por alarmes SNS |
 
 
 ## Projetos ativos (visto na última semana)
