@@ -16,7 +16,7 @@ Esta skill NUNCA deve conter ou introduzir dados pessoais do usuário (nomes rea
  
 ## 1. Localizar o vault
  
-O vault não tem caminho fixo. Antes de qualquer ação, localize a pasta raiz procurando por esta assinatura (todas ou a maioria destes itens no mesmo diretório):
+O vault não tem caminho fixo. Antes de qualquer ação, pergunte ao usuário qual o caminho da pasta raiz. Caso ele não saiba ou não queira informar, localize a pasta raiz procurando por esta assinatura (todas ou a maioria destes itens no mesmo diretório):
  
 - Pastas: `0-Inbox/`, `1-Projetos/`, `2-Areas/`, `3-Recursos/`, `4-Arquivo/`
 - Arquivos/pastas: `templates/`, `memory/`, `TASKS.md`, `CLAUDE.md`
